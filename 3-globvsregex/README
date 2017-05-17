@@ -1,0 +1,10 @@
+Given this branch
+
+feature/CAT-20-to-kubernetes
+
+
+print out the task ID
+
+
+
+( You can use the sed command or the bash paramters expansion)

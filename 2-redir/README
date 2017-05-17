@@ -1,0 +1,1 @@
+Append the last command's standard output and error messages to the file called  errors.log. Then show the contents of errors.log on the terminal again.

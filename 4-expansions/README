@@ -1,0 +1,2 @@
+In a directory, I have a bunch of *.html files.
+I'd like to rename them all to *.txt using bash expansions
