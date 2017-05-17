@@ -1,1 +1,7 @@
-Append the last command's standard output and error messages to the file called  errors.log. Then show the contents of errors.log on the terminal again.
+Append the stdout and stderr of a regular command to the file called errors.log. 
+Use a command that generate both stderr and stdout output.
+
+For example 
+
+
+ls /bin/bash /xxxxx
