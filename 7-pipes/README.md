@@ -7,6 +7,13 @@ header Accept-Language set to the desired language.
 GET "https://sherlock.sftapi.com/search/Bobafett?query=softonic"
 Accept-Language: en_US
 ```
+The results will be something like:
+```
+{
+  "pagination": { ... },
+  "items": [ { "programName": "mipito", ... }, { "programName": "foobar", ...}]
+}
+```
 
 Tips: curl, jq
 
