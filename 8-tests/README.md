@@ -23,9 +23,11 @@ es_ES
 3) Write a bash script that accept as a parameter a Softonic instance
 and a query and based on the number of results of Sherlock's bobafett,
 it will return:
+```
 "Low" < 10
 "Medium" >= 10 and <= 100
 "High" > 100
+```
 
 Url: https://sherlock.sftapi.com/search/Bobafett
 Example:
